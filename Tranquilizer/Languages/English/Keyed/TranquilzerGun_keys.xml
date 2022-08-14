@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <MINE_TranquilizerBullet_FailurMote></MINE_TranquilizerBullet_FailurMote>
+  <MINE_TranquilizerBullet_SuccessMessage>{1} has been tranquilized by {0}!</MINE_TranquilizerBullet_SuccessMessage>
+  <MINE_TranquilizerBullet_UnfortunateMessage>{1} has been (sort of) tranquilized by {0}!</MINE_TranquilizerBullet_UnfortunateMessage>
+</LanguageData>

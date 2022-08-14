@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name> Tranquilizer Gun </name>
+    <author>fuzzp1337</author>
+    <packageId>MINE.Tranquilizergun.0001</packageId>
+    <supportedVersions><li>1.3</li></supportedVersions>
+    <description>V1.0
+    This mod adds a tranquilizer gun. You can put people to sleep from a range.</description>
+</ModMetaData>
